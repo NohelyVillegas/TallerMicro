@@ -1,0 +1,6 @@
+com\espe\micro_asignatura\services\AsignaturaServiceImpl.class
+com\espe\micro_asignatura\controllers\AsignaturaController.class
+com\espe\micro_asignatura\repositories\AsignaturaRepository.class
+com\espe\micro_asignatura\services\AsignaturaService.class
+com\espe\micro_asignatura\MicroAsignaturaApplication.class
+com\espe\micro_asignatura\models\entities\Asignatura.class
